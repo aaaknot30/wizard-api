@@ -335,4 +335,19 @@ button:hover {
 .elixir-message {
   max-width: 300px;
 }
+
+
+@media (max-width: 800px) {
+  .main-section {
+    grid-template-columns: auto;
+    gap: 20px;
+    justify-content: center;
+  }
+
+  .left-side {
+    height: 53vh;
+    width: 90vw;
+  }
+}
+
 </style>
