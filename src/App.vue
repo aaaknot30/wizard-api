@@ -202,7 +202,7 @@ watch(selectedIngredient, showIngredients)
 
     </section>
     <footer>
-      <div class="footer-title">By Kyle Larson, Jan. 2023</div>
+      <div class="footer-title">By Kyle Larson</div>
     </footer>
   </main>
 
